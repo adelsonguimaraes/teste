@@ -1,2 +1,4 @@
 #Arquivo de teste
 Linha 2
+Linha 3
+Linha 4
